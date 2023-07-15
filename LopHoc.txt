@@ -1,0 +1,9 @@
+CS02#Khoa Hoc May Tinh 02#1200000#Tieng anh#-#-#Cau truc du lieu va thuat giai 1#Cau truc du lieu va thuat giai 1#-#Tieng anh#-#- #Ung dung web#Ung dung web#- #-#-#- #-#-#- #-#-#-#
+IM03#He Thong Thong Tin Quan Ly 03#2200000#-#Tieng anh#-#-#Quan tri hoc#-#-#Tieng anh#-#-#-#-#Cau truc du lieu va giai thuat#Cau truc du lieu va giai thuat#-#-#-#-#-#-#-#
+CS03#Khoa Hoc May Tinh 03#2400000#Ung dung web#Ung dung web#-#Cau truc du lieu va thuat giai 1#Cau truc du lieu va thuat giai 1#-#-#-#-#Tieng anh#-#-#-#-#-#Tieng anh#-#-#-#-#-#
+CS01#Khoa Hoc May Tinh 01#3000000#Cau truc du lieu va thuat giai 1#Cau truc du lieu va thuat giai 1#-#Tieng anh#-#-#-#-#-#Ung dung web#Ung dung web#-#Tieng anh#Giai tich#-#-#-#-#-#-#-#
+IT02#Cong Nghe Thong Tin 02#1800000#Thiet ke web#Thiet ke web#-#Cau truc du lieu va giai thuat#Cau truc du lieu va giai thuat#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+IT01#Cong Nghe Thong Tin 01#2000000#Cau truc du lieu va giai thuat#Cau truc du lieu va giai thuat#-#Triet hoc Mac-Lenin#-#-#-#-#-#-#-#-#Thiet ke web#Thiet ke web#-#-#-#-#-#-#-#
+IM02#He Thong Thong Tin Quan Ly 02#3800000#-#Tieng anh#-#-#-#-#Cau truc du lieu va giai thuat#Cau truc du lieu va giai thuat#-#-#-#-#Quan tri hoc#Tieng anh#-#-#-#-#-#-#-#
+IT03#Cong Nghe Thong Tin 03#3300000#-#Triet hoc Mac-Lenin#-#Thiet ke web#Thiet ke web#-#-#-#-#-#-#-#Cau truc du lieu va giai thuat#Cau truc du lieu va giai thuat#-#-#-#-#-#-#-#
+IM01#He Thong Thong Tin Quan Ly 01#1500000#Quan tri hoc#-#-#-#-#-#Cau truc du lieu va giai thuat#Cau truc du lieu va giai thuat#-#-#-#-#-#-#-#-#-#-#-#-#-#
